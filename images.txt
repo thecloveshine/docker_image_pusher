@@ -1,3 +1,5 @@
 nginx
 minikube
 python
+mysql
+Mongodb
