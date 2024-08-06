@@ -1,2 +1,2 @@
-Mysql:latest
-MongoDB:latest
+mysql:latest
+mongoDB:latest
