@@ -1,3 +1,2 @@
-minikube
-mysql
-Mongodb
+Mysql
+MongoDB
