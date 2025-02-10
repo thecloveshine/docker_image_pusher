@@ -1,1 +1,1 @@
-mongodb:latest
+yidadaa/chatgpt-next-web
